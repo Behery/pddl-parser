@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # Four spaces as indentation [no tabs]
 
 import re
-from action import Action
+from .action import Action
 
 class PDDL_Parser:
 
